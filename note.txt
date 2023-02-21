@@ -1,0 +1,4 @@
+          <h1 className="text-3xl font-extrabold mt-4">
+            Our Banking
+            <span className="text-orange-500 font-extrabold">Partners</span>
+          </h1>
